@@ -1,6 +1,6 @@
-baseURL = "https://ajeetdsouza.github.io/blog/"
-languageCode = "en-us"
-title = "Ajeet D'Souza"
+baseURL = "https://dot.is-a.dev/blog/"
+languageCode = "ru-ru"
+title = "Dott"
 theme = "ink"
 
 publishDir = "docs"
@@ -8,31 +8,26 @@ publishDir = "docs"
 pygmentsCodeFences = true
 pygmentsStyle = "friendly"
 
-googleAnalytics = "G-C3QZ882E3V"
+googleAnalytics = ""
 
 [blackfriday]
 hrefTargetBlank = true
 
 [params]
 customCSS = "css/custom.css"
-subtitle = "a tech blog"
+subtitle = "не придумал, что я тут буду постить, но пусть будет"
 disableDisqusTypes = ["page", "post"]
 mainSections = ["page", "post"]
 
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/ajeetdsouza/"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/ajeetdsouza/"
+url = "https://github.com/Dott-rus/"
 
 [[params.social]]
 name = "Mail"
 icon = "mail"
-url = "mailto:98ajeet@gmail.com"
+url = "mailto:dott.main@gmail.com"
 
 [[params.social]]
 name = "RSS"
