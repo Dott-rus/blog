@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Dott&#39;s shit-post</title>
+        <link>//localhost:1313/posts/</link>
+        <description>Recent content in Posts on Dott&#39;s shit-post</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 20 Jul 2025 20:10:24 +0300</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Template</title>
+            <link>//localhost:1313/posts/template/</link>
+            <pubDate>Sun, 20 Jul 2025 20:10:24 +0300</pubDate>
+            
+            <guid>//localhost:1313/posts/template/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
