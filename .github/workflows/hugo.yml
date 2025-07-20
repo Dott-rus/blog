@@ -43,7 +43,7 @@ jobs:
           extended: true  # Обязательно для SCSS/SASS
 
       - name: Install Dart Sass
-        run: sudo apt-get install -y dart-sass  # Более надежный способ, чем snap
+        run: sudo snap install dart-sass
 
       - name: Cache Hugo resources
         uses: actions/cache@v3
