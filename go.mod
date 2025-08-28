@@ -1,4 +1,4 @@
-module github.com/imfing/issues-blog
+module github.com/Dott-rus/blog
 
 go 1.19
 
